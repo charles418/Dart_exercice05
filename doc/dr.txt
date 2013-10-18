@@ -1,0 +1,21 @@
+ex05
+
+1/1
+
+Dart_exercice05
+->
+dart_exercice05
+ou
+exercice05
+
+Question1()
+->
+question1()
+
+ex05.4
+Créer une fonction qui gère la table de multiplication pour n'importe quel nombre.
+fonction avec des paramètres ?
+
+
+
+
